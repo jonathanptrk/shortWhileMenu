@@ -1,10 +1,10 @@
-# shortWhileMenu
+# ShortWhileMenu
 Versão otimizada do menu feito com o comando While, estudo de estruturas de repetição utilizando o comando while. Crie um menu navegável que repita em quanto o usuário não digitar o número "3".
 
 package aula03.estruturasDeRepeticao;
 import java.util.Scanner;
 
-public class whileWhile {
+public class WhileExercise {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
